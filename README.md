@@ -1,5 +1,9 @@
+#### About Me
+#### Hometown
+#### Hobbies
+#### Family
 # School and Degree
-I go to University of Missouri Columbia and I am an Information Technology major. I am freshmen currently and right now I am taking two introductory courses. Below is the product of one of my coding assignments.
+I go to University of Missouri Columbia and I am an Information Technology major. I am freshmen currently and right now I am taking two introductory courses. Below is one of my coding assignments. This is html code for fizzbuzz. For numbers 1-100 this program takes each number indivdually and if it is divisbile by 3 it says fizz, if it divisible by 5 it says buzz, and if it's divisible by both 3 and 5 it says fizzbuzz.
 ```html
 	<!DOCTYPE html>
 	<html>
