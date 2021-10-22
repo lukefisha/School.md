@@ -1,6 +1,7 @@
 # School and Degree
 I go to University of Missouri Columbia and I am an Information Technology major. I am freshmen currently and right now I am taking two introductory courses. Below is the product of one of my coding assignments.
 <!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="UTF-8">
@@ -29,13 +30,9 @@ function fizzbuzz() {
 }
 
 </script>
-
 </head>
-
 <body onload="fizzbuzz()">
 <div id="display">
-
 </div>
 </body>
-
 </html>
